@@ -3,24 +3,17 @@ I want to record something.
 
 不知道干特图能不能写自己的基本记录。
 
-```mermaid
-gantt
-        dateFormat  YYYY-MM-DD
-        title 1月
+不行，那就直接截图加日志记录好了。
 
-        section A section
-        Completed task            :done,    des1, 2014-01-06,2014-01-08
-        Active task               :active,  des2, 2014-01-09, 3d
-        Future task               :         des3, after des2, 5d
-        Future task2               :         des4, after des3, 5d
+## 1月
 
-        section Critical tasks
-        Completed task in the critical line :crit, done, 2014-01-06,24h
-        Implement parser and jison          :crit, done, after des1, 2d
-        Create tests for parser             :crit, active, 3d
-        Future task in critical line        :crit, 5d
-        Create tests for renderer           :2d
-        Add to mermaid                      :1d
+### 1.19
 
+今天中午回广州，下午四时三十分钟的票。回广州等待哥哥回家的车，和他们一起回家。
 
-```
+其实并没有多高的按耐不住的急切回家心情，但确实想见老妈子，太久了。然后和朋友开黑，真是乱七八糟的人格。
+
+看每日豆瓣周日精选，上面有个广播大概意思是：落枕怎么和爱情一个样，都只能靠时间治愈。我寻思落枕还能医药治疗吧，去搜索了一番，确实能医药治愈，但主要还是时间。好的，确实和爱情一个样。
+
+如果看小孩子的对话，会愈发爱上他们。一个小女孩对看到培根的话：“知识就是力量。”然后问了他爸爸，是火腿肠的培根吗？我惊讶，从没将这两个相同的名字联系在一起，从不想变为大人的我也失去了孩子的敏锐，忽略掉周遭有趣的物事。
+

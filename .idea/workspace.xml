@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ba8713-f9e3-4435-a46e-965ccbbd6d08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <first_editor relative-caret-position="270">
+                <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -44,8 +43,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="471" />
-    <option name="y" value="32" />
+    <option name="x" value="243" />
+    <option name="y" value="23" />
     <option name="width" value="1399" />
     <option name="height" value="861" />
   </component>
@@ -97,16 +96,15 @@
       <option name="presentableId" value="Default" />
       <updated>1579426812832</updated>
       <workItem from="1579426814250" duration="215000" />
-      <workItem from="1579427155799" duration="570000" />
+      <workItem from="1579427155799" duration="2352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="785000" />
+    <option name="totallyTimeSpent" value="2567000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="456" y="51" width="1399" height="861" extended-state="0" />
-    <editor active="true" />
+    <frame x="243" y="23" width="1399" height="861" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25350037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -138,8 +136,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <first_editor relative-caret-position="270">
+            <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="16" />
           </first_editor>
           <second_editor />
         </state>
